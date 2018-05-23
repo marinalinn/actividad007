@@ -26,3 +26,11 @@ header div.texto p{
 .cardborder {
 	border: solid 5px #d7d7d7;
 }
+
+.card-title{
+	color: #7a7979;
+}
+
+.card-text{
+	color: #7a7979;
+}
