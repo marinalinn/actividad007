@@ -23,3 +23,6 @@ header div.texto p{
    font-family: 'Open Sans', sans-serif;
 }
 
+.cardborder {
+	border: solid 5px #d7d7d7;
+}
