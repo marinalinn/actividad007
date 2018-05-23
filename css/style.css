@@ -1,8 +1,25 @@
-header{
-	width: 100%;
-	height: 215px;
+header div.back {
+	height: 280px;
+	background-image: url(../images/bg2.jpg);
+   
 }
 
-navbar-nav{
-	float: right;
+header div.texto{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	padding-top: 20px;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+   
 }
+header div.texto h1{
+	font-size: 24px;
+   font-family: 'Open Sans', sans-serif;
+}
+
+header div.texto p{
+	font-size: 0.9em;
+   font-family: 'Open Sans', sans-serif;
+}
+
